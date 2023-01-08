@@ -1,7 +1,7 @@
 # **html-css-code-refactor**
 
 ## **Link to deployed application**
-
+https://github.com/JJGAvery/html-css-code-refactor
 
 ## **Description**
 My goal for this challenge was to review the code presented to me for a company called Horiseon. I had to review the code to improve its semantic structure, refactor the html section and css section and make the code easier to read for maintainability.
